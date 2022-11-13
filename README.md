@@ -110,4 +110,4 @@ I added some comments on code, but it's not enough for understanding the whole a
 
 ## Contributing
 
-This project completely open source . You can fork and modify everything, and you can use this project everywhere you want. I'm transferring my experiences into this project to contribute for open source family, and I'm trying to impress the beginners with unique ways.
+This project completely open source . You can fork and modify everything, and you can use this project everywhere you want. I'm transferring my experiences into this project to contribute for open source family.
